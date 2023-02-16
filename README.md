@@ -29,6 +29,8 @@
 ![Screenshot](https://github.com/artemmoroz0v/go_quote_search_service/blob/main/screenshots/2.png)
 
 
+
+
 2. Метод ***GET***, получение информации о статьях по названию категории
 
 Запрос в программе ***Postman***:
