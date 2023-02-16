@@ -20,6 +20,7 @@
 1. Метод ***GET***, поиск статьи по точному совпадению наименования.
 
 Запрос в программе ***Postman***:
+
 ![Screenshot](https://github.com/artemmoroz0v/go_quote_search_service/blob/main/screenshots/1.png)
 
 
