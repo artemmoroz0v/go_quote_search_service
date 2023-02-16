@@ -40,3 +40,16 @@
 Результат поиска статьи:
 
 ![Screenshot](https://github.com/artemmoroz0v/go_quote_search_service/blob/main/screenshots/4.png)
+
+
+
+3. Метод ***PUT***, редактирование статьи пользователем.
+
+Запрос в программе ***Postman***:
+
+![Screenshot](https://github.com/artemmoroz0v/go_quote_search_service/blob/main/screenshots/5.png)
+
+Результат изменений в базе данных ***PostgreSQL***:
+
+![Screenshot](https://github.com/artemmoroz0v/go_quote_search_service/blob/main/screenshots/6.png)
+
